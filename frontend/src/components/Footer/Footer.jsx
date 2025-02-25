@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import logo from '../../assets/logo_footer.png'; // Adjust the path if necessary
+import logo from '../../assets/logofooter.png'; // Adjust the path if necessary
 import facebookIcon from '../../assets/facebook_icon.png';
 import twitterIcon from '../../assets/twitter_icon.png';
 import linkedinIcon from '../../assets/linkedin_icon.png';
