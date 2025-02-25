@@ -1,2 +1,2 @@
-# FURNI_HEAVEN
-furniture ware selling website using MERN STACK
+# kandurata_hardware
+An online hardware store system replicates the offerings and services of a traditional hardware store in a digital environment..
