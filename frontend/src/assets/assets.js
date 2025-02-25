@@ -88,31 +88,31 @@ export const category_list = [
         menu_image: category_1
     },
     {
-        menu_name: "Safety Gear",
+        menu_name: "Bedroom furniture ",
         menu_image: category_2
     },
     {
-        menu_name: "Paint",
+        menu_name: "Living Room",
         menu_image: category_3
     },
     {
-        menu_name: "Tools",
+        menu_name: "Dining ",
         menu_image: category_4
     },
     {
-        menu_name: "Storage",
+        menu_name: "TV & Audio",
         menu_image: category_5
     },
     {
-        menu_name: "Lighting ",
+        menu_name: " Office",
         menu_image: category_6
     },
     {
-        menu_name: "Gardening",
+        menu_name: "Kitchen Appliances",
         menu_image: category_7
     },
     {
-        menu_name: "Fasteners",
+        menu_name: "Home Appliances",
         menu_image: category_8
     }]
 
