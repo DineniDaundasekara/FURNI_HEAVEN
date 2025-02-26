@@ -3,9 +3,11 @@
     color: #fff;
     display: flex;
     flex-direction: column;
-    padding: 20px 8vw; /* Adjust if needed */
+    padding: 10px 8vw; /* Adjust if needed */
     gap: 20px;
     padding-top: 80px;
+    background-color: #583115;
+    
 }
 
 .footer-container {
@@ -13,14 +15,16 @@
     justify-content: space-between; /* Space between sections */
     align-items: flex-start; /* Align items to the top */
     flex-wrap: wrap;
-    padding: 0; /* Remove side padding */
-    margin: 0; /* Remove margin */
+    padding: 10px; /* Remove side padding */
+    margin: 5px; /* Remove margin */
+    background-color: #583115;
 }
 
 .ifooter-section {
     flex: 1;
     margin: 10px;
     min-width: 200px;
+    
 }
 
 /* Ensure text in sections is left-aligned */
@@ -61,6 +65,7 @@
 .ifooter-section ul li a {
     color: #fff; /* All text is white */
     text-decoration: none;
+    
 }
 
 .ifooter-section ul li a:hover {
